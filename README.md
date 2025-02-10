@@ -1,5 +1,5 @@
 # 💫 About Me:
-A recent Computer Science graduate who has a knack for everything tech and data-related. I build computers, maintain servers, find trends in analytics, and probably one of the most tech-savvy people you're going to meet. 
+A Computer Science graduate who has a knack for everything tech and data-related. I build computers, maintain servers, find trends in analytics, and probably one of the most tech-savvy people you're going to meet. 
 
 
 ## 🌐 Socials:
